@@ -1,6 +1,6 @@
-# React + Vite
+# Redux Toolkit + RTK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ejercicios de demostración sobre React Redux RTK + Query, usando las apis de pokeapi y jsonplaceholder.
 
 Currently, two official plugins are available:
 
